@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <home>
+        <fullname>Dustin Jun Mendoza</fullname>
+        <profilephoto>/static/images/anata.jpg</profilephoto>
+        <tagline>If you're afraid to fail, then you'll never know the taste of success.</tagline>
+        <location>Silago Southern Leyte Pob. District II</location>
+        <socialmedia>
+            <facebook>https://www.facebook.com/dustinjun.mendoza.58/</facebook>
+            <instagram>https://www.instagram.com/djayyyyyyy25/</instagram>
+            <twitter>https://x.com/txt143moa?t=TKm4Hxv5HQGf_JaQBo4z1g&amp;s=09</twitter>
+        </socialmedia>
+    </home>
+<skills>
+    <technical>
+        <skill>Python</skill>
+        <skill>HTML</skill>
+        <skill>CSS</skill>
+        <skill>JavaScript</skill>
+    </technical>
+    <talents>
+    <talent>
+        <name>Video Editing</name>
+        <media type="video">/static/images/MAGNET.mp4</media>
+
+    </talent>
+    <talent>
+        <name>Choreographer</name>
+        <media type="video">/static/images/choreo.mp4</media>
+    </talent>
+    <talent>
+        <name>Graphic Designing</name>
+        <media type="image">/static/images/kyubi.jpg</media>
+        <media type="image">/static/images/jes.jpg</media>
+        <media type="image">/static/images/kec.jpg</media>
+    </talent>
+</talents>
+
+    <!-- <talents>
+    <talent>
+        <name>Video Editing</name>
+        <media type="video">/static/videos/video-editing-demo.mp4</media>
+    </talent>
+    <talent>
+        <name>Choreographer</name>
+        <media type="image">/static/images/choreographer.jpg</media>
+    </talent>
+    <talent>
+        <name>Graphic Designing</name>
+        <media type="image">/static/images/graphic-designing.jpg</media>
+    </talent>
+</talents> -->
+
+    <!-- <talents>
+        <talent>Video Editing</talent>
+        <talent>Choreographer</talent>
+        <talent>Graphic Designing</talent>
+    </talents> -->
+</skills>
+<organizations>
+    <organization>
+        <name>TXT FANBASE</name>
+        <role>Admin</role>
+        <years>2018-2021</years>
+    </organization>
+    <organization>
+        <name>Dance Club</name>
+        <role>Member</role>
+        <years>2019-2021</years>
+    </organization>
+</organizations>
+<services>
+    <service>
+        <name>Web Design</name>
+        <description>Creating responsive and modern websites tailored to your needs.</description>
+        <!-- <testimonials>
+            <testimonial>John is a fantastic web designer! - Jane Doe</testimonial>
+            <testimonial>Highly recommend for any web projects. - Mike Smith</testimonial>
+        </testimonials> -->
+    </service>
+    <service>
+        <name>Tutoring</name>
+        <description>Personalized tutoring sessions in programming and web development.</description>
+        <!-- <testimonials>
+            <testimonial>Helped me understand complex topics easily. - Sarah Lee</testimonial>
+        </testimonials> -->
+    </service>
+</services>
+<projects>
+    <project>
+        <title>PAIMON</title>
+        <description>The system will help automate and document the entire process of financial management covering all areas such as expenses, savings, budget planning, etc.</description>
+        <technologies>
+            <technology>HTML</technology>
+            <technology>CSS</technology>
+            <technology>PHP</technology>
+        </technologies>
+        <link>https://example.com/project-one</link>
+        <image>https://via.placeholder.com/300x200?text=Project+One</image>
+    </project>
+</projects>
+<testimonials>
+    <testimonial>
+        <name>Andre Tagon</name>
+        <relationship>Friend</relationship>
+        <message>Dustin is a highly skilled developer who consistently delivers quality work.</message>
+    </testimonial>
+    <testimonial>
+        <name>Jhovan Balbuena</name>
+        <relationship>Friend</relationship>
+        <message>Working with Dustin has been a pleasure; his expertise is unmatched.</message>
+    </testimonial>
+    <testimonial>
+        <name>Stephen</name>
+        <relationship>Friend</relationship>
+        <message>Dustin's dedication and attention to detail made our project a success.</message>
+    </testimonial>
+</testimonials>
+</portfolio>
